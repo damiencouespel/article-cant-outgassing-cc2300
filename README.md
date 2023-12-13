@@ -1,2 +1,2 @@
-# article-cant-outgassing-cc2300
+# article-cant-outgassing-cc2300-scripts
 This repository contains the jupyter notebook used to produce the figure of the paper investigating the outgassing of anthorpogenic carbon in NorESM2
